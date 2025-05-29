@@ -1,4 +1,3 @@
-
 import { fetchPlaceholders } from '../../scripts/placeholders.js';
 
 function updateActiveSlide(slide) {
